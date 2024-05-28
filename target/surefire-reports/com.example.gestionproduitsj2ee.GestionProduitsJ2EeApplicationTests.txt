@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.gestionproduitsj2ee.GestionProduitsJ2EeApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.90 s -- in com.example.gestionproduitsj2ee.GestionProduitsJ2EeApplicationTests

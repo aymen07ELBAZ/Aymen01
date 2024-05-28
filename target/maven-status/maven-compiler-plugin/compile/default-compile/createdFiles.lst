@@ -1,0 +1,16 @@
+com\example\gestionproduitsj2ee\entities\Produit.class
+com\example\gestionproduitsj2ee\repositories\ClientRepository.class
+com\example\gestionproduitsj2ee\entities\Categorie.class
+com\example\gestionproduitsj2ee\controller\CommandeController.class
+com\example\gestionproduitsj2ee\GestionProduitsJ2EeApplication.class
+com\example\gestionproduitsj2ee\entities\Produit$ProduitBuilder.class
+com\example\gestionproduitsj2ee\controller\ProduitController.class
+com\example\gestionproduitsj2ee\entities\Client.class
+com\example\gestionproduitsj2ee\entities\Categorie$CategorieBuilder.class
+com\example\gestionproduitsj2ee\entities\Commande.class
+com\example\gestionproduitsj2ee\repositories\ProduitRepository.class
+com\example\gestionproduitsj2ee\entities\Commande$CommandeBuilder.class
+com\example\gestionproduitsj2ee\entities\Client$ClientBuilder.class
+com\example\gestionproduitsj2ee\repositories\CategorieRepository.class
+com\example\gestionproduitsj2ee\repositories\CommandeRepository.class
+com\example\gestionproduitsj2ee\controller\CategorieController.class
